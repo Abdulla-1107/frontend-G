@@ -13,7 +13,7 @@ export const translations = {
 
     // Hero
     heroTitle: 'Gulchekhra_collection',
-    heroSubtitle: 'An\'anaviy o\'zbek moda san\'ati — qo\'lda ishlangan, noyob va nafis',
+    heroSubtitle: 'An\'anaviy Qoraqalpoq moda san\'ati — qo\'lda ishlangan, noyob va nafis',
     heroShop: 'Xarid qilish',
     heroAbout: 'Batafsil',
 
@@ -61,9 +61,9 @@ export const translations = {
     // About
     aboutTitle: 'Gulchehra haqida',
     aboutStory: 'Bizning hikoya',
-    aboutStoryText: 'Gulchehra — bu an\'anaviy o\'zbek hunarmandchiligining zamonaviy ifodasi. Har bir mahsulot qo\'lda, nafis va ehtiyotkorlik bilan tayyorlanadi.',
+    aboutStoryText: 'Gulchehra — bu an\'anaviy Qoraqalpoq hunarmandchiligining zamonaviy ifodasi. Har bir mahsulot qo\'lda, nafis va ehtiyotkorlik bilan tayyorlanadi.',
     aboutMission: 'Missiyamiz',
-    aboutMissionText: 'Biz o\'zbek milliy madaniyatini dunyo miqyosida targ\'ib qilishni va har bir buyumda tarixiy merosni saqlab qolishni maqsad qilganmiz.',
+    aboutMissionText: 'Biz Qoraqalpoq milliy madaniyatini dunyo miqyosida targ\'ib qilishni va har bir buyumda tarixiy merosni saqlab qolishni maqsad qilganmiz.',
     aboutCraft: 'Hunarmandchilik',
     aboutCraftText: 'Har bir tikuv, har bir naqsh — bu avlodlardan meros bo\'lib kelgan san\'atning davomi.',
     aboutValues: 'Qadriyatlarimiz',
@@ -76,10 +76,10 @@ export const translations = {
     contactMessage: 'Xabar',
     contactSend: 'Yuborish',
     contactInfo: 'Aloqa ma\'lumotlari',
-    contactAddress: 'Toshkent, O\'zbekiston',
+    contactAddress: 'Qoraqalpoq',
 
     // Footer
-    footerDesc: 'An\'anaviy o\'zbek moda san\'ati — qo\'lda ishlangan noyob kiyimlar.',
+    footerDesc: 'An\'anaviy Qoraqalpoq moda san\'ati — qo\'lda ishlangan noyob kiyimlar.',
     quickLinks: 'Tezkor havolalar',
     contactUs: 'Biz bilan bog\'lanish',
     rights: 'Barcha huquqlar himoyalangan.',
