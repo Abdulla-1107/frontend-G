@@ -29,7 +29,7 @@ const Contact = () => {
             <div className="mt-8 space-y-6">
               {[
                 { icon: MapPin, text: t('contactAddress') },
-                { icon: Phone, text: '+998 90 123 45 67' },
+                { icon: Phone, text: '+998 90 591 87 64' },
                 { icon: Mail, text: 'info@gulchekhra.uz' },
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-4">
